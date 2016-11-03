@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+}
+
+h1, h2, a {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+img.author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 36px;
+    height: 36px;
+}
